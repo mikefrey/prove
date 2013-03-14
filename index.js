@@ -17,7 +17,7 @@
   else this[name] = definition()
 }('prove', function () {
 
-  var is = require('./is')
+  var is = require('is-it')
 
   // could just split on spaces, but this should help ignore crap we don't care about
   var conditionRx = /([a-z]+(?:\((?:\s?[\-\+]?[\d\.]\,?\s?)*\))?)(?:\s?)/gi
