@@ -1,0 +1,20 @@
+{
+  "name": "prove",
+  "version": "0.0.1",
+  "description": "Simple validation with is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikefrey/prove.git"
+  },
+  "keywords": [
+    "validation"
+  ],
+  "author": "Mike Frey",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "d1dda828ae381a7adede80b44738e3922ef40e82"
+}
